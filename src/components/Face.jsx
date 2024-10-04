@@ -1,5 +1,5 @@
 import React from "react";
-import Dropdown from "./DropDown";
+import Dropdown from "./Dropdown";
 import { Shop } from "../constants/DropdownLists";
 import { Blogs } from "../constants/DropdownLists";
 
