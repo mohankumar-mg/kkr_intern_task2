@@ -1,5 +1,5 @@
 import React from "react";
-import Dropdown from "./DropDown";
+import Dropdown from "./Dropdown";
 import Phone from "../assets/phone.svg";
 import {MyAccount} from "../constants/DropdownLists";
 
